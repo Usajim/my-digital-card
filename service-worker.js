@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/my-digital-card/precache-manifest.c71e926119d7cff27f0cdc39a57f14f3.js"
+  "/my-digital-card/precache-manifest.6d4692ea4550603415d9b868b83b3e68.js"
 );
 
 workbox.clientsClaim();
