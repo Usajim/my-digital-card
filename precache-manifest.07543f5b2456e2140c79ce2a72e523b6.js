@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "a5dbeae4234deb6d5961",
-    "url": "/my-digital-card/static/js/main.a5dbeae4.chunk.js"
+    "revision": "6e3266361e8a0948a6cc",
+    "url": "/my-digital-card/static/js/main.6e326636.chunk.js"
   },
   {
     "revision": "bbec7dc8d58ec3f5adc9",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/my-digital-card/static/js/runtime~main.35d1339b.js"
   },
   {
-    "revision": "906819eacd0d715de1a103e6271394b3",
+    "revision": "c2d0c3583417687fd54fa3afc1d3ae6d",
     "url": "/my-digital-card/index.html"
   }
 ];
