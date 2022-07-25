@@ -1,11 +1,12 @@
 {
-  "main.js": "/my-digital-card/static/js/main.6e326636.chunk.js",
-  "main.js.map": "/my-digital-card/static/js/main.6e326636.chunk.js.map",
-  "static/js/1.bbec7dc8.chunk.js": "/my-digital-card/static/js/1.bbec7dc8.chunk.js",
-  "static/js/1.bbec7dc8.chunk.js.map": "/my-digital-card/static/js/1.bbec7dc8.chunk.js.map",
+  "main.js": "/my-digital-card/static/js/main.8274491f.chunk.js",
+  "main.js.map": "/my-digital-card/static/js/main.8274491f.chunk.js.map",
+  "static/js/1.528ddaf9.chunk.js": "/my-digital-card/static/js/1.528ddaf9.chunk.js",
+  "static/js/1.528ddaf9.chunk.js.map": "/my-digital-card/static/js/1.528ddaf9.chunk.js.map",
   "runtime~main.js": "/my-digital-card/static/js/runtime~main.35d1339b.js",
   "runtime~main.js.map": "/my-digital-card/static/js/runtime~main.35d1339b.js.map",
+  "static/media/mypic.jpg": "/my-digital-card/static/media/mypic.97aee783.jpg",
   "index.html": "/my-digital-card/index.html",
-  "precache-manifest.07543f5b2456e2140c79ce2a72e523b6.js": "/my-digital-card/precache-manifest.07543f5b2456e2140c79ce2a72e523b6.js",
+  "precache-manifest.fc38ee6d466de4b02a3caf37ff2f17af.js": "/my-digital-card/precache-manifest.fc38ee6d466de4b02a3caf37ff2f17af.js",
   "service-worker.js": "/my-digital-card/service-worker.js"
 }
